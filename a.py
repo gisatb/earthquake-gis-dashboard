@@ -10,7 +10,6 @@ import leafmap.foliumap as leafmap
 st.set_page_config(page_title="Earthquake GIS Dashboard", layout="wide")
 st.title("🌍 Earthquake GIS Dashboard")
 st.markdown("Real-time earthquake data from **USGS (past 30 days)**")
-st.write("Plotly version:", plotly.__version__)
 # -------------------
 # Fetch earthquake data
 url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
