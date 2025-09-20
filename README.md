@@ -1,7 +1,6 @@
 # 🌍 Earthquake GIS Dashboard
 
-An **interactive Streamlit web app** for monitoring earthquakes worldwide using data from the **United States Geological Survey (USGS)**.  
-This dashboard allows users to **explore earthquake patterns** over the past 30 days, filter by magnitude and date, view **interactive maps, charts, and statistics**, and download filtered data for further analysis.
+An **interactive Streamlit web app** for monitoring earthquakes worldwide using real-time data from the **United States Geological Survey (USGS)**. This dashboard allows users to **explore earthquake patterns** over the past 30 days(by default) or more, filter by magnitude and date, view **interactive maps, charts, and statistics**, and download filtered data for further analysis.
 
 ---
 
