@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit specific
+.streamlit/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# VSCode / PyCharm / IDE configs
+.vscode/
+.idea/
+
+# Backup / cache
+*.bak
+*.swp
+*.tmp
