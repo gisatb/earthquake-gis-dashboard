@@ -1,5 +1,5 @@
-streamlit
-leafmap
-pandas
-requests
-plotly
+streamlit==1.30.0
+leafmap==0.20.0
+pandas==2.1.0
+requests==2.32.0
+plotly==5.17.0
