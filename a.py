@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 import plotly.express as px
 import leafmap.foliumap as leafmap
-
+st.write("Plotly version:", plotly.__version__)
 # -------------------
 # Page configuration
 st.set_page_config(page_title="Earthquake GIS Dashboard", layout="wide")
