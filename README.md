@@ -7,6 +7,9 @@ This dashboard allows users to **explore earthquake patterns** over the past 30 
 
 🌐 **Live Demo**: [Click here to explore](https://your-streamlit-url.streamlit.app)
 
+Here’s the dashboard in action 👇  
+![Earthquake Dashboard Demo](earthquake-dashboard.png)
+
 ---
 ## ✨ Key Features
 
@@ -32,13 +35,6 @@ This dashboard allows users to **explore earthquake patterns** over the past 30 
 - 📈 Earthquakes over time (time series)
 - 📊 Magnitude distribution (histogram)
 - 🌊 Depth distribution (histogram)
-
----
-
-## 📸 Demo
-
-Here’s the dashboard in action 👇  
-![Earthquake Dashboard Demo](earthquake-dashboard.png)
 
 ---
 ## 📊 Data Source
